@@ -1,24 +1,30 @@
-# CP To-Do App ✅
+# CP To-Do App
 
-A modern to-do list web app built with **HTML**, **CSS**, and **JavaScript**, featuring sleek design and automated end-to-end testing using **Appium + WebdriverIO**.
+A task management web application built with **HTML, CSS, and JavaScript**.
 
----
+The application allows users to create, complete, and delete tasks while demonstrating interactive UI behavior and automated testing.
 
-## 🚀 Features
+## Features
 
-- 📝 Add, complete, and delete tasks  
-- 🎨 Sleek, modern UI design  
-- 🤖 Automated E2E tests with Appium + WebdriverIO
+- Add tasks
+- Mark tasks as completed
+- Delete tasks
+- Dynamic UI updates
 
----
+## Technologies
 
-## 🛠️ How to Run
+- HTML
+- CSS
+- JavaScript
+- Appium
+- WebdriverIO
 
-### 🖥️ Launch the App
-1. Open `index.html` in your browser
+## Running the Application
 
-### ✅ Run Automated Tests
-1. In your terminal, navigate to the `tests` folder:
-   ```bash
-   cd tests
-   npx wdio run wdio.conf.js
+Open `index.html` in a browser.
+
+## Running Automated Tests
+
+```bash
+cd tests
+npx wdio run wdio.conf.js
