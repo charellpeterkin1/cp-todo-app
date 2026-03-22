@@ -4,6 +4,10 @@ A task management web application built with **HTML, CSS, and JavaScript**.
 
 The application allows users to create, complete, and delete tasks while demonstrating interactive UI behavior and automated testing.
 
+## Preview
+
+![CP-todo-app Screenshot](cp-todo-screenshot.png)
+
 Features
 
 - Add tasks
